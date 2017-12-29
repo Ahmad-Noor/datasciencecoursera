@@ -1,0 +1,4 @@
+The application is about to select the best car for your trip,
+that was developed for the Developing Data Products Course, from Coursera. This app helps you to choose a car for a trip, using the mtcars dataset from [R].
+ 
+Source code for ui.R and server.R files are available on the GitHub.
